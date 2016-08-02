@@ -1,0 +1,189 @@
+@font-face {
+font-family: Top;
+src: url(../fonts/9808.ttf) format("opentype");
+}
+
+@font-face {
+font-family: Main;
+src: url(../fonts/9873.otf) format("opentype");
+}
+
+body{
+	margin:0px;
+	background: url("/img/back.jpg")no-repeat center center fixed;
+	-moz-background-size:cover; 
+	-o-background-size:102% auto; 
+	-webkit-background-size:102% auto;
+	-khtml-background-size:cover; 
+	background-size:cover;
+	font-family:Main;
+}
+
+div{
+	padding:8px;
+	
+}
+
+header{
+	width:1080px;
+	padding:0px;
+	height:150px;
+	margin:0 auto;
+
+}
+
+p{
+	font-weight: 200;
+	margin: 0px;
+	font-family: Top;
+	text-decoration: blink;
+}
+
+hr{
+	border: none;
+    color: #009688; 
+    background-color: #009688; 
+    height: 2px;
+}
+
+.bigletter{
+	font-size: 36px;
+}
+
+#alph{
+	word-break: break-all;
+	background:#00796B;
+}
+
+#alph a{
+	text-decoration:none;
+	color:#FFFFFF;
+	font-size:12px;
+	padding:1px;
+}
+#alph a:hover{
+	background:#009688;
+	color:#FFFFFF;
+	font-weight:normal;
+}
+
+#popular{
+	padding:2px;
+}
+
+#popular a{
+	font-size:14px;
+	background:#fff;
+	color:#FF5252;
+	padding:2px 10px;
+	text-decoration:none;
+	display:block;
+	margin:2px;
+	font-weight:bold;
+} 
+
+#popular a:hover{
+	background:#FF5252;
+	color:white;
+	font-weight:normal;
+} 
+
+a.authorlink{
+	font-size:14px;
+	color:#FF5252;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a.authorlink:hover{
+	color:#FF2626;
+}
+
+.boxer {
+	display: table;
+	border-collapse: collapse;
+}
+.alphauthors:hover{
+	background-color: #DDFFF7;
+
+}
+ 
+.boxer .box-row {
+	display: table-row;
+
+}
+
+.bodyline0{
+	background-color: #D6EEEB;
+}
+
+.bodyline1{
+	background-color: #FCDCDC;
+}
+
+.bodyline1:hover{
+	background-color: #F9CCCC;
+}
+
+.bodyline0:hover{
+	background-color: #C5EAE3;
+}
+ 
+.boxer .box {
+	display: table-cell;
+	text-align: left;
+	vertical-align: top;
+	border: 0px solid black;
+}
+
+#headline div{
+	background: #FF5151;
+	color: white;
+}
+
+.inmain{
+	width: 49.9%;
+	border:1px solid white;
+}
+
+.statborder{
+	margin: 4px;
+	padding: 0px;
+	width: auto;
+	border: 1px solid black;
+	height: 16px;
+}
+
+.stat{
+	padding: 0px;
+	background-color: #FF5252;
+	font-size: 14px;
+	height: 16px;
+	color: white;
+	text-align: center;
+}
+
+a.fulllink{
+	font-size:14px;
+	color:#00796B;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a.fulllink:hover{
+	color:#009688;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

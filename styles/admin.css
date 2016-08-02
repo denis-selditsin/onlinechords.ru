@@ -1,0 +1,77 @@
+body{
+	margin:0px;
+	background: url("/img/back.jpg")no-repeat center center fixed;
+	-moz-background-size:cover; 
+	-o-background-size:102% auto; 
+	-webkit-background-size:102% auto;
+	-khtml-background-size:cover; 
+	background-size:cover;
+	font-family:Main;
+}
+
+div.auth{
+	padding:0px;
+	width:250px;
+	background:#ffffff;
+	
+	position:absolute;
+	top:50%;
+	left:50%;
+	margin-top:-130px;
+	margin-left:-125px;
+	
+	border-top:0px;
+	border-left:0px solid C6C6C6;
+	border-bottom:0px solid C6C6C6;
+	border-right:0px solid C6C6C6;
+	border-radius:0 0 3px 3px;
+	box-shadow: 0 0 5px;
+	
+}
+
+form.auth{
+	width:100%;
+}
+
+input.auth{
+	width:100%;
+}
+
+button.auth{
+	width:100%;
+	margin-bottom:0px;
+	
+}
+
+#logout{
+	height: 50px;
+	margin:0px;
+}
+
+#error{
+	font-size: 14px;
+}
+
+#admin{
+	box-shadow: 0 0 0;
+}
+
+footer.admin{
+	box-shadow: 0 0 5px #000;
+}
+
+a.admincount{
+	font-size:14px;
+	color:#FF5252;
+	text-decoration:none;
+	font-weight:bold;
+}
+
+a.admincount:hover{
+	color:#FF2626;
+}
+
+
+
+
+

@@ -1,0 +1,21 @@
+#comment{
+	margin-bottom:5px;
+	border:1px solid #009688;
+}
+
+#comment p{
+	padding-bottom:4px;
+	margin:0px;
+	color:#FF5252;
+	font-weight:bold;
+}
+
+#comment div.datetime{
+	padding:0;
+	margin:0px;
+	color:#AFAFAF;
+	font-size:14px;
+	font-weight:normal;
+	margin-bottom:3px;
+	float:right;
+}

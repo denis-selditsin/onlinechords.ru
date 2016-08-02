@@ -1,0 +1,380 @@
+AWSTATS DATA FILE 7.0 (build 1.971)
+# If you remove this file, all statistics for date 201606 will be lost/reset.
+# Last config file used to build this data file was /etc/awstats/awstats.onlinechords.ru.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 27
+POS_GENERAL 1995                
+POS_TIME 2668                
+POS_VISITOR 8395                
+POS_DAY 9784                
+POS_DOMAIN 3401                
+POS_LOGIN 3634                
+POS_ROBOT 3789                
+POS_WORMS 4131                
+POS_EMAILSENDER 4262                
+POS_EMAILRECEIVER 4405                
+POS_SESSION 10168               
+POS_SIDER 10364               
+POS_FILETYPES 4540                
+POS_DOWNLOADS 4764                
+POS_OS 4812                
+POS_BROWSER 4955                
+POS_SCREENSIZE 5488                
+POS_UNKNOWNREFERER 5562                
+POS_UNKNOWNREFERERBROWSER 5800                
+POS_ORIGIN 5938                
+POS_SEREFERRALS 6082                
+POS_PAGEREFS 6226                
+POS_SEARCHWORDS 6762                
+POS_KEYWORDS 6914                
+POS_MISC 2331                
+POS_ERRORS 6973                
+POS_CLUSTER 3490                
+POS_SIDER_404 7119                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20160701033057 1 0 11073156433979
+FirstTime 20160615113439
+LastTime 20160628182728
+LastUpdate 20160701040254 1 0 0 0 0
+TotalVisits 68                  
+TotalUnique 31                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 34                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+AddToFavourites 0 10 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 1 1 6300 4 4 12285
+1 0 0 0 3 7 37134
+2 1 1 6300 1 1 289
+3 37 124 658958 1 3 297
+4 128 462 2631420 6 12 32887
+5 233 811 4277900 13 14 10064
+6 81 247 1336655 8 11 25423
+7 63 128 490028 3 3 320
+8 61 137 721404 3 3 6773
+9 1 1 6300 1 1 289
+10 4 4 25200 7 7 9744
+11 36 115 665572 1 5 21538
+12 182 458 2306954 7 10 4914
+13 117 363 2193969 22 26 24609
+14 414 1470 7578103 6 16 43342
+15 892 2019 11974105 53 81 99721
+16 231 805 4523950 7 13 5388
+17 20 64 412974 3 4 867
+18 23 78 577836 11 13 24260
+19 6 17 134419 2 2 578
+20 1 1 6300 2 2 12657
+21 11 42 182407 4 5 1156
+22 4 4 20711 3 4 867
+23 10 32 185897 2 2 578
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 10 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 1
+ip 2557 7384 40923662
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 10 first Hits must be first (order not required for others)
+BEGIN_ROBOT 6
+no_user_agent 5 12657 20160617185154 0
+crawl 3 30850 20160619011120 0
+python 2 24445 20160629082538 0
+core 1 6300 20160617003054 0
+surveybot 1 6195 20160629062738 0
+bot[\s_+:,\.\;\/\\-] 1 7279 20160625043011 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+php 364 644570 0 0
+css 3894 400003 0 0
+png 339 3326086 0 0
+ttf 441 27885116 0 0
+html 1001 6559539 0 0
+js 594 585472 0 0
+woff 299 352820 0 0
+otf 452 1170056 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS 10
+linuxandroid 369
+winlong 1
+winxp 6
+unix 90
+winnt 5534
+winvista 5
+linux 8
+win7 807
+macosx 559
+Unknown 5
+END_OS
+
+# Browser ID - Hits
+BEGIN_BROWSER 28
+chrome37.0.2062.124 1
+msie6.0 1
+safari9.0.3 1
+firefox44.0 1
+curl 1
+chrome43.0.2357.132 1
+opera9.80 2
+chrome51.0.2704.103 5250
+msie8.0 1
+safari9.0 102
+firefox0.10.1 2
+firefox33.0 1
+chrome48.0.2564.109 2
+chrome42.0.2311.135 8
+firefox3.5.8 1
+chrome50.0.2661.102 443
+chrome51.0.2704.84 641
+chrome43.0.2357.93 1
+safari8.0 1
+chrome48.0.2564.103 1
+chrome49.0.2623.91 338
+chrome41.0.2228.0 2
+chrome49.0.2623.112 4
+Unknown 3
+safari 543
+chrome39.0.2171.71 1
+firefox3.6.13 1
+chrome30.0.0.0 30
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Firefox/3.5.8 20160617185154
+Yo-yo 20160624171937
+Go_1.1_package_http 20160616190029
+GuzzleHttp/6.1.0_curl/7.35.0_PHP/5.5.9-1ubuntu4.14 20160619020737
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Yo-yo 20160624171937
+Go_1.1_package_http 20160616190029
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 333 337
+From1 0 0
+From2 0 0
+From3 116 304
+From4 2108 6743
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 10 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 9
+http://u0205611.isp.regruhosting.ru 28 215
+http://u0205611.isp.regruhosting.ru/styles/style.css 23 23
+http://vk.com/away.php 22 22
+http://m.vk.com/away.php 22 22
+http://u0205611.isp.regruhosting.ru/styles/component.css 14 14
+http://hostx.ru 2 2
+http://u0205611.isp.regruhosting.ru/admin/ 2 3
+http://u0205611.isp.regruhosting.ru/admin/index.php 2 2
+https://mawords.com/onlinechords.ru 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 6
+403 2 5784
+302 122 30308
+206 6 99037
+500 17 0
+301 12 3895
+404 32 91136
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referer
+BEGIN_SIDER_404 20
+/styles/img/background.png 4 https://onlinechords.ru/styles/style.css
+/robots.txt 2 -
+/version.php 1 http://onlinechords.ru/version.php
+/styles/song.css 2 https://onlinechords.ru/admin/index.php
+/admin.php 1 -
+/styles/header.css 2 https://onlinechords.ru/admin/index.php
+/styles/forms.css 2 https://onlinechords.ru/admin/index.php
+/function.session-start 1 https://onlinechords.ru/
+/administrator/index.php 2 -
+/styles/img/background.jpg 1 https://onlinechords.ru/styles/style.css
+/styles/body.css 1 https://onlinechords.ru/admin/index.php
+/styles/admin.css 1 https://onlinechords.ru/admin/index.php
+/styles/footer.css 2 https://onlinechords.ru/admin/index.php
+/admin/pages/check 1 -
+/styles/comments.css 1 https://onlinechords.ru/admin/index.php
+/tds/version.php 1 http://onlinechords.ru/tds/version.php
+/styles/style.css 2 https://onlinechords.ru/admin/index.php
+/admin/add.php 1 -
+/wp-login.php 2 -
+/styles/component.css 2 https://onlinechords.ru/admin/index.php
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 10 first Hits must be first (order not required for others)
+BEGIN_VISITOR 34
+62.249.146.165 1265 4268 23684511 20160628132312
+62.249.146.193 559 1647 8130932 20160624163011
+37.146.127.7 434 471 3288239 20160627162714
+80.83.238.71 109 432 2137857 20160624055212
+92.37.142.142 83 297 1780843 20160626162806
+46.8.138.70 31 81 511042 20160627161521
+195.19.8.149 25 91 737214 20160617192136
+37.146.127.200 6 17 134147 20160615130805
+80.83.238.58 5 16 73160 20160616110318
+46.8.139.21 4 15 71708 20160616162152
+50.117.89.108 1 1 6300 20160616202322
+199.30.228.139 1 1 6300 20160616130815
+162.244.33.8 1 1 6300 20160616084308
+195.211.23.210 0 1 17251 
+195.211.23.212 1 1 6195 20160628044307
+45.32.217.244 1 1 6300 20160619092944
+178.162.214.204 1 1 6300 20160621224011
+195.211.23.207 0 1 18250 
+91.77.20.203 2 2 12600 20160621130552
+195.211.23.206 1 2 24550 20160616153519
+91.189.112.7 4 4 25953 20160628182728
+82.146.57.90 1 1 6300 20160616190029
+92.249.104.63 1 1 7190 20160627231125
+195.211.23.214 0 1 20736 
+195.211.23.225 1 1 6250 20160615113815
+195.211.23.208 1 1 7158 20160626153057
+83.149.25.67 3 3 18900 20160617100806
+148.251.48.178 1 1 6300 20160619020737
+79.137.223.57 2 2 12600 20160624032444
+62.249.146.202 4 13 92639 20160628044500
+159.203.160.162 1 1 6300 20160619182157
+37.0.66.126 4 4 27158 20160625231334
+5.19.138.13 2 2 13579 20160624171937
+5.143.143.210 2 2 12600 20160622002730
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20160615 206 604 3377365 5
+20160616 54 132 779506 9
+20160617 38 126 1011941 7
+20160618 37 88 449375 4
+20160619 31 58 297987 7
+20160620 7 25 43862 4
+20160621 3 3 18900 3
+20160622 24 78 465576 3
+20160624 334 1132 5042714 6
+20160625 1 1 7279 1
+20160626 545 1897 10643437 6
+20160627 831 1902 11668903 8
+20160628 446 1338 7116817 5
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+1h+ 8
+5mn-15mn 3
+0s-30s 47
+30s-2mn 1
+15mn-30mn 3
+30mn-1h 6
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_SIDER 16
+/ 969 6517320 57 36
+/admin/index.php 325 604915 10 7
+/fonts/9873.otf 325 381540 0 0
+/fonts/9808.ttf 322 20681416 0 2
+/fonts/icomoon/icomoon.woff 299 352820 0 11
+/styles/9873.otf 127 788516 0 3
+/styles/9808.ttf 112 7193536 0 5
+/admin/ 32 42219 1 0
+/admin/adder.php 11 11592 0 0
+/iii.php 11 54 0 0
+/admin/logged.php 5 274 0 1
+/admin/pages/moderate.php 1 8 0 0
+/admin/pages/check.php 3 26 0 0
+/fonts/icomoon/icomoon.ttf 7 10164 0 3
+/index.php 4 27689 0 0
+/controls/init.php 4 12 0 0
+END_SIDER

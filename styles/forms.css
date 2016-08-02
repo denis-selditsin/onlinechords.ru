@@ -1,0 +1,102 @@
+textarea{
+	margin-right:3px;
+	margin-bottom:3px;
+	padding:5px;
+	max-width:100%;
+	min-width:100%;
+	min-height:120px;
+	max-height:120px;
+
+	font-family:Main;
+	background: #ffffff !important;
+	border: 1px solid #cccccc;
+	outline:none;
+}
+
+textarea::-webkit-input-placeholder{
+	color:#FFB5B5;
+	font-weight:bold;
+}
+
+form{
+	width:440px;
+}
+
+input{
+	margin-right:3px;
+	margin-bottom:3px;
+	padding:5px;
+	font-family:Main;
+	background: #ffffff !important;
+	border: 1px solid #cccccc;
+	outline:none;
+}
+
+input::-webkit-input-placeholder{
+	color:#FFB5B5;
+	font-weight:bold;
+}
+
+button{
+	padding:10px;
+	background:#FF5252;
+	color:white;
+	border:0;
+	cursor:pointer;
+	font-family:Main;
+	display:inline;
+}
+
+button:hover{
+	background:#FF9393;
+}
+
+.field {
+	clear:both; 
+	text-align:right;
+	line-height:25px;
+}
+label {
+	float:left;
+	padding-right:10px;
+}
+
+form.song{
+	width:640px;
+}
+
+
+textarea.song{
+	max-width:100%;
+	min-width:100%;
+	min-height:480px;
+	max-height:480px;
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
